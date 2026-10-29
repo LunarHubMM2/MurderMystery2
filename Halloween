@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LunarHubMM2/Halloween/refs/heads/main/MM2"))()
